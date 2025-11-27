@@ -21,7 +21,6 @@ By default, the code:
 - uses the first 4 columns as **features**
 - inverts the last column so that:
 
-```text
 original label 0 → mapped to 1
 original label 1 → mapped to 0
 
